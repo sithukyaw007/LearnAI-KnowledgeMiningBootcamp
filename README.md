@@ -32,6 +32,9 @@ In this course you will learn
 ##### Architecture
 ![Architecture](KMArchitecture.png)
 
+##### Technologies Covered
+![Technology](KMTechnologymap.png)
+
 ##### Industry application
 
 Intelligent search is relevant to many major industries. Some are listed below.

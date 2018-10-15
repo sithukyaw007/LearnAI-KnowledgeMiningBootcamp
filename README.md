@@ -10,23 +10,23 @@ While this course focusses on Azure and Cognitive search capabilities, a depth c
 
 In this course you will learn
 
--- Fundamentals of Azure Search and its capabilities.
+1. Fundamentals of Azure Search and its capabilities.
 
--- Understand Microsoft Cognitive Search and its key scenarios for using them.
+1. Understand Microsoft Cognitive Search and its key scenarios for using them.
 
--- Build an enriched data pipeline for search using predefined and custom skillsets:
+1. Build an enriched data pipeline for search using predefined and custom skillsets:
 
-    -- Text skills like entity recognition, language detection, text manipulation and key phrase extraction.
+    a. Text skills like entity recognition, language detection, text manipulation and key phrase extraction.
     
-    -- Image skills like OCR.
+    b. Image skills like OCR.
     
-    -- Language skills like text translation.
+    c. Language skills like text translation.
     
-    -- Content moderation skills to block documents with incompliant content.
+    d. Content moderation skills to block documents with incompliant content.
     
--- Use the enriched data pipeline for a knowledge mining solution on business documents within an enterprise.
+1. Use the enriched data pipeline for a knowledge mining solution on business documents within an enterprise.
 
--- Expose the knowledge mining solution using a bot interface for document search and consumption.
+1. Expose the knowledge mining solution using a bot interface for document search and consumption.
 
 
 #### Architecture
@@ -83,7 +83,7 @@ Full Course classroom training:  16 hours
 
 #### Related LearnAI Courses
 
-Building and Implementing Intelligent Agents and Apps
+[Building Intelligent Agents and Apps](https://azure.github.io/LearnAI-Bootcamp/emergingaidev_bootcamp)
 
 #### Course Modules
 

@@ -33,7 +33,7 @@ In this course you will learn
 ![Architecture](KMArchitecture.png)
 
 ##### Technologies Covered
-![Technology](KMTechnologymap.png)
+![Technology](KMTechnologyMap.png)
 
 ##### Industry application
 

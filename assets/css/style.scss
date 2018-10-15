@@ -1,0 +1,55 @@
+---
+
+---
+
+
+
+@import "{{ site.theme }}";
+
+.inner {
+
+	max-width: 1000px;
+
+}
+
+
+
+p img {
+
+	display: inline;
+
+	padding: 0;
+
+	vertical-align: middle;
+
+	text-align: center;
+
+	border: none;
+
+	margin-left: auto;
+
+	margin-right: auto;
+
+	display: block;
+
+}
+
+pre {
+
+ padding:0px;
+
+ overflow:auto;
+
+ background-color: rgba(40,40,40,0.1)
+
+}
+
+code {
+
+ padding:3px;
+
+ margin:0 3px;
+
+ background-color: rgba(300,300,10,0.2)
+
+}

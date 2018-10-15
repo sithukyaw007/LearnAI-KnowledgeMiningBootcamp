@@ -1,7 +1,7 @@
-## Enterprise Knowledge Mining Solution using the Microsoft AI Platform
-#### Build an enterprise scale intelligent search solution for searching business documents using Microsoft Azure and Cognitive Search
+# Enterprise Knowledge Mining Solution using the Microsoft AI Platform
+### Build an enterprise scale intelligent search solution for searching business documents using Microsoft Azure and Cognitive Search
 
-##### About this Course
+#### About this Course
 In this course, you will learn to build an enterprise search solution by applying knowledge mining approach to search an organization’s business documents like Microsoft Office, PDFs and images using Azure search and Cognitive search skillsets and expose the results via a Bot interface.
 
 You will learn to perform entity recognition, image analysis, text translation and indexed search on enterprise business documents using Microsoft Cognitive Services and Azure Search. This approach can be used with almost any Azure service to augment a customer’s scenario involving intelligent search. 
@@ -29,13 +29,13 @@ In this course you will learn
 -- Expose the knowledge mining solution using a bot interface for document search and consumption.
 
 
-##### Architecture
+#### Architecture
 ![Architecture](KMArchitecture.png)
 
-##### Technologies Covered
+#### Technologies Covered
 ![Technology](KMTechnologyMap.png)
 
-##### Industry application
+#### Industry application
 
 Intelligent search is relevant to many major industries. Some are listed below.
 
@@ -45,7 +45,7 @@ Intelligent search is relevant to many major industries. Some are listed below.
 
 3.	Entertainment industry uses search for relevant/contextual on-demand streaming.
 
-###### Pre-requisites
+#### Pre-requisites
 
 1.	Fundamental working knowledge of Azure Portal, Functions and Azure Search.
 
@@ -54,45 +54,38 @@ Intelligent search is relevant to many major industries. Some are listed below.
 3.	Familiarity with Azure Bots and Microsoft Bot Framework v4.
 
 If you do not have any familiarity with the above pre-requisites, please find below links
+1. *To Read (10 minutes):* [Visual Studio Tutorial](https://docs.microsoft.com/en-us/visualstudio/ide/visual-studio-ide)
+1. *To Read (4 minutes):* [Azure Functions Overview](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)  
+1. *To Read (10 minutes):* [Azure Search Overview](https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search) 
+1. *To Read (7 minutes):* [Postman Tutorial](https://docs.microsoft.com/en-us/azure/search/search-fiddler) 
+1. *To Do (30 minutes):* [C# Quickstart](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/) 
 
-1.	To Read: [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/visual-studio-ide) tutorial.
+#### Pre-Setup before you attend the class Mandatory
+1. *To Create:* You need a Microsoft Azure account to create the services we use in our solution. You can create a [free account](https://azure.microsoft.com/en-us/free/), use your [MSDN account](https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/) or use any other subscription where you have permission to create services.
+1. *To Install:* [Visual Studio 2017](https://www.visualstudio.com/vs/) version version 15.5 or later, *including the Azure development workload*.
+1. *To Install:* [Postman](https://www.getpostman.com/). To call the labs APIs.
 
-2.	To Read: [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) quick introduction.
-
-3.	To Read: [Azure Search](https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search) overview.
-
-4.	To Read: Using [Postman](https://docs.microsoft.com/en-us/azure/search/search-fiddler) tutorial.
-
-5.	To Watch: [MVA: C# Fundamentals](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949) short videos.
-
-###### Pre-setup before you attend this course:
-1.	You need a Microsoft Azure account to create the services used in the training solution. You can create a [free account](https://azure.microsoft.com/en-us/free/), use your [MSDN account](https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/) or use any other subscription where you have permission to create services.
-
-2.	Install Visual Studio 2017.
-
-3.	Install Postman.
-
-##### Course Details
+#### Course Details
 
 Primary Audience: Azure AI Developers, Architects.
 Secondary Audience:  Any professional interested in learning AI.
 
-##### Level
+#### Level
 
 This content is designed as an intermediate to advanced level course for AI developers and/or architects.
 
-##### Type
+#### Type
 This course, in its full form, is designed to be taught in-person but you can also use the materials in a self-paced fashion. There are assignments and multiple reference links throughout the materials that support the concepts and skills you will learn.
 
-##### Length
+#### Length
 
 Full Course classroom training:  16 hours
 
-##### Related LearnAI Courses
+#### Related LearnAI Courses
 
 Building and Implementing Intelligent Agents and Apps
 
-##### Course Modules
+#### Course Modules
 
 1.	Introduction – Overview of Azure Search, Cognitive Search, Scenarios and industry specific applications.
 

@@ -6,7 +6,7 @@ In this course, you will learn to build an enterprise search solution by applyin
 
 You will learn to perform entity recognition, image analysis, text translation and indexed search on enterprise business documents using Microsoft Cognitive Services and Azure Search. This approach can be used with almost any Azure service to augment a customer’s scenario involving intelligent search. 
 
-While this course focusses on Azure and Cognitive search capabilities, a depth course on building Bots and integrating various cognitive services is available here - Building Intelligent Agents and Apps.
+While this course focusses on Azure and Cognitive search capabilities, a depth course on building Bots and integrating various cognitive services is available here - [Building Intelligent Agents and Apps](https://azure.github.io/LearnAI-Bootcamp/emergingaidev_bootcamp).
 
 In this course you will learn
 
@@ -55,18 +55,18 @@ Intelligent search is relevant to many major industries. Some are listed below.
 
 If you do not have any familiarity with the above pre-requisites, please find below links
 
-1.	To Read: Visual Studio tutorial.
+1.	To Read: [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/visual-studio-ide) tutorial.
 
-2.	To Read: Azure Functions quick introduction.
+2.	To Read: [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) quick introduction.
 
-3.	To Read: Azure Search overview.
+3.	To Read: [Azure Search](https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search) overview.
 
-4.	To Read: Using Postman tutorial.
+4.	To Read: Using [Postman](https://docs.microsoft.com/en-us/azure/search/search-fiddler) tutorial.
 
-5.	To Watch: MVA: C# Fundamentals short videos.
+5.	To Watch: [MVA: C# Fundamentals](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949) short videos.
 
 ###### Pre-setup before you attend this course:
-1.	You need a Microsoft Azure account to create the services used in the training solution. You can create a free account, use your MSDN account or use any other subscription where you have permission to create services.
+1.	You need a Microsoft Azure account to create the services used in the training solution. You can create a [free account](https://azure.microsoft.com/en-us/free/), use your [MSDN account](https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/) or use any other subscription where you have permission to create services.
 
 2.	Install Visual Studio 2017.
 

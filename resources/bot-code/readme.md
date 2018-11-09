@@ -1,0 +1,1 @@
+At the bottom of CognitiveSearchBot.cs, you need to add your Azure Search service name, key, and index name.

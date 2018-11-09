@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CognitiveSearchBot", "CognitiveSearchBot.csproj", "{FDE8B63A-F28A-4A08-ACD9-6F45015F1848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE8B63A-F28A-4A08-ACD9-6F45015F1848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE8B63A-F28A-4A08-ACD9-6F45015F1848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE8B63A-F28A-4A08-ACD9-6F45015F1848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE8B63A-F28A-4A08-ACD9-6F45015F1848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F447F19-6AA1-449F-A8CA-632F2AB9D062}
+	EndGlobalSection
+EndGlobal

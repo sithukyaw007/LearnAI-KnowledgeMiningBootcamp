@@ -6,7 +6,7 @@ In this lab, you will learn how Azure Cognitive Search can be integrated into a 
 
 ## Step 1 - Download and install the Bot Framework Emulator
 
-The Bot Framework Emulator helps you run your bots locally for testing and debugging purposes. Download the emulator by going to [this page](https://github.com/Microsoft/BotFramework-Emulator/releases) and downloading the most recent version of the emulator that has the tag "Latest Release" (select the ".exe" file, if you are using windows).
+The Bot Framework Emulator helps you run your bots locally for testing and debugging purposes. Download the emulator by going to [this page](https://github.com/Microsoft/BotFramework-Emulator/releases) and downloading the most recent version of the emulator that has the tag "Latest Release" (select the ".exe" file, if you are using windows). We suggest release 4.1.0 or newer. Be careful, the page is not sorted by release number.
 > The instructions for the rest of the labs will assume you've downloaded the V4 Emulator (as opposed to the V3 Emulator).
 
 The emulator installs to `c:\Users\`_your-username_`\AppData\Local\botframework\app-`_version_`\botframework-emulator.exe` or to your Downloads folder, depending on browser. Run the install and open the emulator, you'll use it shortly.

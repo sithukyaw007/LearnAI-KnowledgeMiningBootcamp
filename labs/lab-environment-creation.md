@@ -35,7 +35,7 @@ In this lab, you will create an Azure Search service and a storage account. We r
 
 ## Step 2 - Clone the Repo
 
-Cloning the repo will download all the training materials to your computer, including the dataset, the slides and the code for the Bot project.
+Cloning the repo will download all the training materials to your computer, including the dataset, the slides and the code for the Bot project. **The cloning of the repository will use close to 110 MB in total**.
 
 1. In the Cortana search bar, type "git bash" and select "Git Bash Desktop App", or type "cmd" and select "Command Prompt".
 
